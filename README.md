@@ -1,3 +1,3 @@
-# ai-wing-man-release
+# System helper release
 
-Release build for AI Wingman
+Release build for System Helper
